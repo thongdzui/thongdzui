@@ -4,6 +4,8 @@
 
  👨‍💻 QA Engineer reflecting on my experiences and growth within the technology field<br/>
  👨‍🎓 Studied Information Technology at the HUFLIT University <br/>
+ # 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/thong3108/) 
 
  # 💻 Tech Stack:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
@@ -18,3 +20,6 @@
 
  <!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats -->
  [![Thong's GitHub stats](https://github-readme-stats.vercel.app/api?username=thongdzui&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
+ ![](https://github-readme-stats.vercel.app/api?username=thongdzui&theme=radical&hide_border=true&include_all_commits=true&count_private=true&show_icons=true)<br/>
+ ![](https://github-readme-streak-stats.herokuapp.com/?user=thongdzui&theme=radical&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=thongdzui&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
