@@ -5,7 +5,7 @@
  👨‍💻 QA Engineer reflecting on my experiences and growth within the technology field<br/>
  👨‍🎓 Studied Information Technology at the HUFLIT University <br/>
  # 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https:https://www.linkedin.com/in/thong3108/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/thong3108/) 
 
  # 💻 Tech Stack:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
